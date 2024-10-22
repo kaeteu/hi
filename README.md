@@ -35,7 +35,7 @@
         </div>
         <hr>
         <h2>GitHub Stats</h2>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&layout=compact" alt="Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaeteu&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
     </div>
 </body>
 </html>
