@@ -3,7 +3,7 @@
 # Welcome to my [GitHub](https://github.com) profile.
 
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/kaeteu)
+[![GitHub followers](https://img.shields.io/github/followers/kaeteu?label=Follow&style=social)](https://github.com/kaeteu)
 
 ---
 
