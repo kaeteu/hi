@@ -4,32 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            color: #333;
-            margin: 0;
-            padding: 20px;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            border-radius: 10px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        .socials a {
-            display: inline-block;
-            margin: 5px;
-            text-decoration: none;
-        }
-        .socials img {
-            width: 150px;
-            height: 40px;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
