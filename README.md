@@ -7,7 +7,6 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
             color: #333;
             margin: 0;
             padding: 20px;
@@ -15,10 +14,8 @@
         .container {
             max-width: 800px;
             margin: 0 auto;
-            background-color: #fff;
             padding: 20px;
             border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         h1, h2 {
             color: #333;
