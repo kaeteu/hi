@@ -5,7 +5,7 @@
 ---
 
 ### 📫 Как связаться со мной:
-- Tg: [kaeteu]
+- Tg: @kaeteu
 - Email: oblezovartem@gmail.com
 
 ---
