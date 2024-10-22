@@ -7,6 +7,7 @@
 <body>
     <div class="container">
         <h1>Welcome to my <a href="https://github.com">GitHub</a> profile.</h1>
+        <hr>
         <img src="https://count.getloli.com/get/@:kaeteu?theme=booru-lewd" alt="Visitor Count">
         <p>
             <a href="https://github.com/kaeteu">
