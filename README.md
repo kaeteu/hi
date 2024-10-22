@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <div class="container">
+    <div id="header" align="center">
         <h1>Welcome to my <a href="https://github.com">GitHub</a> profile.</h1>
         <img src="https://count.getloli.com/get/@:kaeteu?theme=booru-lewd" alt="Visitor Count">
         <p>
